@@ -87,6 +87,15 @@ print("")
 print("\033[1;36m🌐IP: ARGENTINA [🇦🇷]")
 print("🔖Codigo Postal: 1425")
 print("")
+
+nombre = input("\033[1;36mDesea generar un nombre random (y/n): ")
+
+if nombre == "y":
+    system("python generador.py")
+else:
+    exit()
+
+print("")
 volver = input("\033[1;37mPresione Enter para volver...")
 
 if volver == "":
