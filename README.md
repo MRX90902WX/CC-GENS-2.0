@@ -16,10 +16,15 @@ algunas dependencias instalar con pip install
 #MENU
 
 #1 VALIDO RAPPI
+
 #2 VALIDO YOUTUBE,TIDAL,CANVA
+
 #3 VALIDO CRUNCHYROLL
+
 #4 VALIDO PRIME VIDEO,AMAZON MUSIC
+
 #5 VALIDO LIONSGATE+
+
 #6 SALIR
 
 *****
