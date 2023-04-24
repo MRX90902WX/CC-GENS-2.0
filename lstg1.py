@@ -90,6 +90,6 @@ print("")
 volver = input("\033[1;37mPresione Enter para volver...")
 
 if volver == "":
-    system("python Super_gens.py")
+    system("python Gens_v2-0.py")
 else:
     exit()
