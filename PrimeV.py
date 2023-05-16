@@ -23,7 +23,7 @@ print("")
 print("")
 print(" #1. BIN AUSTRALIA")
 print(" #2. BIN CANADA")
-print(" #3. BIN ESPAÑA")
+print(" #3. BIN ALBANIA")
 print("") 
 main = input(" \033[1;32m----> ")
 print("")
@@ -33,7 +33,7 @@ if main == "1":
 elif main == "2":
    system("python chk2-ca.py")
 elif main == "3":
-   system("python chk3-es.py")
+   system("python chk3-al.py")
 else:
    print("\033[1;34m[X]\033[1;31mOPCIÓN INCORRECTA")
 
