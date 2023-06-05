@@ -126,7 +126,7 @@ print("\033[1;32m+\033[1;37m-----------------------------------------\033[1;32m+
 print("")
 volver = input("\033[1;37mPresione Enter para volver...")
 
-if volver == "":                                               >
+if volver == "":
     system("python Gens_v2-0.py")
 else:
     exit()
