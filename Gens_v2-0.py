@@ -101,7 +101,7 @@ print("")
 if main == "1":
    system("python rappi.py")
 elif main == "2":
-   system("python ypremiun.py")
+   system("python TYCpremiun.py")
 elif main == "3":
    system("python Crunch.py")
 elif main == "4":
